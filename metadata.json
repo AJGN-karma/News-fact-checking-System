@@ -1,0 +1,8 @@
+
+{
+  "name": "Veritas Pro - AI News Fact Checker",
+  "description": "Professional-grade AI verification tool. Analyze news headlines, articles, or screenshots in real-time using Google Search grounding and Gemini 3 Pro reasoning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
